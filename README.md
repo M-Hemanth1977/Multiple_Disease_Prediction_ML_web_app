@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains a web application for predicting multiple diseases based on user input. The app uses machine learning models trained on health-related datasets to provide predictions for various diseases. The goal is to offer a quick and easy way for users to get an idea of potential health issues based on their symptoms and other health indicators.
+This repository contains a web application for predicting multiple diseases based on user input. The app uses machine learning models trained on health-related datasets to provide predictions for various diseases. The goal is to offer a quick and easy way for users to get an idea of potential health issues based on their symptoms.
 
 ## Features
 
