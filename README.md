@@ -7,7 +7,7 @@ This repository contains a web application for predicting multiple diseases base
 ## Features
 
 - **User-Friendly Interface:** Easy-to-use web interface for inputting health data.
-- **Multiple Disease Predictions:** Provides predictions for several common diseases.
+- **Multiple Disease Predictions:** Provides predictions for some common diseases.
 - **Real-Time Predictions:** Get instant results based on the input data.
 - **Data Visualization:** Visual representation of input data and prediction results.
 
